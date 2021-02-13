@@ -1,0 +1,10 @@
+{
+  "name": "json-lang",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "licence": "MIT",
+  "author": "Steven Landis"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "function",
+  "instructions": [
+    {
+      "type": "let",
+      "name": "a",
+      "value": { "type": "number", "value": 5 }
+    }
+  ],
+  "return": {
+    "type": "add",
+    "a": { "type": "ref", "name": "input" },
+    "b": { "type": "ref", "name": "a" }
+  }
+}
